@@ -41,6 +41,7 @@
         balance += amount;
     }
 }
+
     // Function to withdraw an amount from the account.
     // TODO: Implement the 'withdraw' function.
     void Account::withdraw(double amount) {
@@ -48,6 +49,7 @@
         balance -= amount;
     }
 }
+
     // Destructor.
     // Display a message indicating the account is being destroyed.
     // TODO: Implement the destructor.
